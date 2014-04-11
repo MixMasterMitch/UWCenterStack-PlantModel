@@ -1,0 +1,13 @@
+{
+  "name": "UWCenterStack-PlantModel",
+  "description": "The University of Washington EcoCAR 2 team Center Stack plant models",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MixMasterMitch/UWCenterStack"
+  },
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "moment": "~2.5.1"
+  }
+}
